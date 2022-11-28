@@ -1,6 +1,6 @@
 # Angular to do list app
 
-An advanced to do list made with angular, and a fake full rest API called "JSON-server"
+A more advanced to do list made with angular, and a fake full rest API called "JSON-server"
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
