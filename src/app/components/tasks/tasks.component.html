@@ -1,0 +1,20 @@
+<app-add-task (onCallAddTask)="callAddTask($event)"></app-add-task>
+<h2>TASKS</h2>
+<app-task-items [ngStyle]="{'margin-left': '0px'}" *ngFor="let task of tasks" [task]="task" (onCallDelTask)="callDelTask(task)" (onCallToggleReminder)="callToggleReminder(task)"></app-task-items>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
